@@ -199,4 +199,4 @@ Open the app in multiple contexts simultaneously:
 **Swarnabha Dutta**
 
 - GitHub: [github.com/swarnabha-dutta](https://github.com/swarnabha-dutta)
-- LinkedIn: [linkedin.com/in/swarnabha-dutta](https://www.linkedin.com/in/swarnabha-dutta)****
+- LinkedIn: [linkedin.com/in/swarnabha-dutta](https://www.linkedin.com/in/swarnabha-dutta)
